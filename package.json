@@ -1,0 +1,6 @@
+{
+  "name": "ping-pong-app",
+  "version": "0.0.1",
+  "main": "tennis.js",
+  "description": "My very own first node.js project"
+}
